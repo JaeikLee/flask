@@ -14,7 +14,7 @@ community that make adding new functionality easy.
 
 
 Installing
-----------
+---------- 
 
 Install and update using `pip`_:
 
